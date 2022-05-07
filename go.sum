@@ -1,0 +1,4 @@
+github.com/MenInBack/seelog v0.0.0-20171017071608-198f4d221391 h1:aiFslps0738KhqFq/ilvV/lE7MaftAv1qRrWvX8wj64=
+github.com/MenInBack/seelog v0.0.0-20171017071608-198f4d221391/go.mod h1:7+mmfK2ttRsURoYwYrgAY8Ir9Rc92ZAgaMhnsbd7RX4=
+github.com/cihub/seelog v0.0.0-20170130134532-f561c5e57575 h1:kHaBemcxl8o/pQ5VM1c8PVE1PubbNx3mjUr09OqWGCs=
+github.com/cihub/seelog v0.0.0-20170130134532-f561c5e57575/go.mod h1:9d6lWj8KzO/fd/NrVaLscBKmPigpZpn5YawRPw+e3Yo=

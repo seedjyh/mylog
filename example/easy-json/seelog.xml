@@ -1,0 +1,8 @@
+<seelog>
+    <outputs formatid="my-json">
+        <console />
+    </outputs>
+    <formats>
+        <format id="my-json" format='{"time":%Ns,"lev":"%Level","msg":"%Msg","tags":%Tags,"fields":%Fields}%n'/>
+    </formats>
+</seelog>
