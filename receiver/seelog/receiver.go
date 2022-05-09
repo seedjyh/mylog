@@ -1,9 +1,9 @@
 package seelog
 
 import (
+	"anh/internal/pkg/mylog"
 	"encoding/json"
-	"github.com/MenInBack/seelog"
-	"github.com/seedjyh/mylog"
+	"github.com/cihub/seelog"
 )
 
 type receiver struct {
